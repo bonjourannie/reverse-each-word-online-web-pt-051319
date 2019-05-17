@@ -6,3 +6,4 @@ original_array = string.split(" ")
   end
   return_array.join(" ")
 end
+
